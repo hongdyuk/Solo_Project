@@ -46,3 +46,6 @@ print(html)
 # data = {"가게이름":"title", "리뷰내용":"review", "리뷰블로그 링크":"link"}
 # df = pd.DataFrame(data)
 # df.to_csv('맛집리뷰1000선.csv', index=False)
+
+
+
