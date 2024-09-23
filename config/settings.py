@@ -43,7 +43,9 @@ OWN_APPS = [
     "todo",
 ]
 
-INSTALLED_APPS = DJANGO_APPS + OWN_APPS
+THIRD_APPS = []
+
+INSTALLED_APPS = DJANGO_APPS + OWN_APPS + THIRD_APPS
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
